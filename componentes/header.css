@@ -84,7 +84,15 @@
     }
   }
 
-  .ogo-img{
+  .logoo-img{
     width: 100px; 
   height: auto;
   }
+
+
+.textoo {
+  display: flex;
+  padding-top: 3rem;
+  justify-content:space-around;
+ 
+}
